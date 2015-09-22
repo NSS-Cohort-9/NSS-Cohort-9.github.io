@@ -1,7 +1,7 @@
 ---
 name: Brien Pafford
 site: "http://brienpafford.com"
-image: "/images/brienPaffordBW.jpg"
-colorimg: "/images/brienPafford.jpg"
+image: "/images/2015_08_26_NSS_Cohort_9_0574_T_BW.jpg"
+colorimg: "/images/2015_08_26_NSS_Cohort_9_0571_T.jpg"
 bio: Audio Engineer meets Software Developer. I'm really into running, driving cars, and St. Louis Cardinals' Baseball.
 ---

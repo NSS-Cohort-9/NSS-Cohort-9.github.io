@@ -1,7 +1,7 @@
 ---
 name: James Logan
 site: "http://www.jblogan.com"
-image: "images/grumpycat.jpg"
-colorimg: "images/colored-one.jpg"
-bio: "Imagine the coolest person you've ever met... then divide that by like three or four. When I'm not writing snarky bios about myself I'm coding, merging pull requests, reading scifi, or pretending to be really into fitness."
+image: "/images/2015_08_26_NSS_Cohort_9_0405_T_BW.jpg"
+colorimg: "/images/2015_08_26_NSS_Cohort_9_0403_T.jpg"
+bio: "Imagine the coolest person you've ever met... then divide that by like three or four. When I'm not writing snarky bios about myself I'm coding, reading scifi, or pretending to be really into fitness."
 ---

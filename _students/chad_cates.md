@@ -1,7 +1,7 @@
 ---
 name: Chad Cates
 site: "http://chadcates.org"
-image: "/images/chadCates.jpg"
-colorimg: "/images/chadCates.jpg"
-bio: A juinor full stack developer. 
+image: "/images/2015_08_26_NSS_Cohort_9_0128_T_BW.jpg"
+colorimg: "/images/2015_08_26_NSS_Cohort_9_0124_T.jpg"
+bio: A juinor full stack developer.
 ---

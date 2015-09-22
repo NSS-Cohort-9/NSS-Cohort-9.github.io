@@ -1,7 +1,7 @@
 ---
 name: Logan Dougher
 site: "http://ldougher.github.io/portfolio"
-image: "images/SpencerSharpeBW.jpg"
-colorimg: "images/SpencerSharpeColor.jpg"
+image: "/images/2015_08_26_NSS_Cohort_9_0192_T_BW.jpg"
+colorimg: "/images/2015_08_26_NSS_Cohort_9_0177_T.jpg"
 bio: '"We work to become, not to aquire" - Elbert Hubbard.'
 ---
