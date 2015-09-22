@@ -1,7 +1,7 @@
 ---
 name: Simone Gonzalez
 site: "http://www.simone.space"
-image: "images/simone.jpg"
-colorimg: "images/simone-one.jpg"
+image: "images/SpencerSharpeBW.jpg"
+colorimg: "images/SpencerSharpeColor.jpg"
 bio: Powerful Beyond Measure. Grateful Adventure Seeker.
 ---
