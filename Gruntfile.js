@@ -7,7 +7,7 @@ module.exports = function(grunt) {
       options: {
         base: '_site'
       },
-      src: ['**']
+      src: ['**/*']
     },
     jshint: {
       options: {
@@ -96,6 +96,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-imgcompress');
 
   // Register tasks
+  // grunt.registerTask('gh-pages', ['gh-pages']);
   grunt.registerTask('scripts', ['watch', 'uglify']);
   grunt.registerTask('images', ['newer:imgcompress', 'newer:svgmin']);
 };
