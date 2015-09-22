@@ -2,7 +2,7 @@
 name: Chelsea Burns
 site: "http://www.chelseaburns.github.io"
 image: "/images/2015_08_26_NSS_Cohort_9_0048_T_BW.jpg"
-colorimg: "/images/i2015_08_26_NSS_Cohort_9_0034_T.jpg"
+colorimg: "/images/2015_08_26_NSS_Cohort_9_0034_T.jpg"
 bio: "Hello, world! I'm Chelsea Burns, a freelance junior developer and founder of Co.Design Software Development. My company's motto is 'building code and design with UX in mind.'"
 ---
 

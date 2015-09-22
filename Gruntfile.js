@@ -3,6 +3,12 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    'gh-pages': {
+      options: {
+        base: '_site'
+      },
+      src: ['**']
+    },
     jshint: {
       options: {
         jshintrc: '.jshintrc'
